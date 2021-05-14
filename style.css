@@ -16,15 +16,15 @@ body {
 .svgtop {
   position: absolute;
   z-index: -1;
-  bottom: 30vh;
+  bottom: 50vh;
   right: 50vw;
 }
 
 .svgbottom {
   position: absolute;
   z-index: -1;
-  top: 40vh;
-  left: 40vw;
+  top: 50vh;
+  left: 50vw;
 }
 
 .main_wrapper {
